@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="no-bm">
+  <head>
+    <meta charset="utf-8">
+    <title>Matematikkseminar 2014</title>
+<!--    <link rel="stylesheet" href="style.css"> -->
+    <script src="script.js"></script>
+  </head>
+  <body>
+
+<h1>Matematikkseminar 2014</h1>
+
+<p>Dette er en oversiktsside.</p>
+
+<p>Vi satser på å møtes ? klokken ? til ca. ? på ?. Målet er å holde foredragene korte, gjerne rundt en time. </p>
+
+<table border="1" width="60%">
+  <tr>
+    <td><strong>Dato</strong></td>
+    <td><strong>Hvem</strong></td>
+    <td><strong>Tema</strong></td>
+  </tr>
+  <tr>
+    <td>neste uke</td>
+    <td>Fredrik</td>
+    <td>Begynne på kap. 4 i Hartshorne. Riemann-Roch, Hurwitz. Noen eksempler?</td>
+  </tr>
+</table>
+<br />
+<hr width="60%" />
+<br />
+<table border="1" width="60%">
+  <tr>
+    <td><strong>Dato</strong></td>
+    <td><strong>Hvem</strong></td>
+    <td><strong>Tema</strong></td>
+  </tr>
+  <tr>
+    <td>7de februar</td>
+    <td>Fredrik</td>
+    <td>Deformasjonsteori, Stanley-Reisner-ringer, og et håp om å triangulere CP^2.</td>
+  </tr>
+<tr>
+<td>14de februar</td>
+<td>Karl Erik</td>
+<td>Kaktus-rank.</td>
+</tr>
+<tr>
+<td>21de februar</td>
+<td>Jarle</td>
+<td>Deformasjonsteori og Delta-mengder.</td>
+</tr>
+<tr>
+<td>28de februar</td>
+<td>Nikolai</td>
+<td>Milnor-fibrasjoner (det reelle tilfellet)</td>
+</tr>
+<tr>
+<td><del>14de mars</del></td>
+<td><del>Kanskje Eivind</del></td>
+<td><del>Spektra?</del></td>
+</tr>
+<tr>
+<td>21de mars, kl 14-15</td>
+<td>Bas</td>
+<td>Quantum groups, category theory and the group SU(d).</td>
+</tr>
+<tr>
+<td>21de mars, kl 15-16</td>
+<td>Karoline Moe</td>
+<td>LaTeX og BIBTEX og sånn.</td>
+</tr>
+<tr>
+<td>28de mars</td>
+<td>Bernt Ivar</td>
+<td>Noe torisk.</td>
+</tr>
+<tr>
+<td>4de april</td>
+<td>Matthew</td>
+<td>Spectrale tripler over C*-dynamiske systemer.</td>
+</tr>
+<tr>
+<td>11de april</td>
+<td>Jørgen Lye</td>
+<td>Sigma-modeller/streng-teori, kompaktifisering.</td>
+</tr>
+<tr>
+<td>25de april</td>
+<td>Oliver</td>
+<td>Kurver på Fermat-hyperflater og lignende dyr i positiv karakteristikk.</td>
+</tr>
+<tr>
+<td>16de mai</td>
+<td>Astri</td>
+<td> Det blir om divisorer, lineære systemer, og punkter på kurver (det kan hende kurvene er elliptiske)</td>
+</tr>
+<tr>
+<td>30de mai</td>
+<td>Fredrik</td>
+<td>
+Overfladisk om speilsymmetri.
+</td>
+</tr>
+</table>
+
+<p>Vil du være neste til å snakke og vil legge ut sånn "abstrakt"?? Send meg epost.</p>
+
+  </body>
+</html>

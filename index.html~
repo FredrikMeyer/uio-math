@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="description" content="For informasjon om Fredrik Meyer." />
+<meta http-equiv="Content-Type" content="text/css; charset=iso-8859-1" />
+<title>Fredrik Meyer</title>
+</head>
+<body>
+<table style="margin: auto; width: 70%;" width="70%">
+<tr>
+<td>
+<h1>Fredrik Meyer</h1>
+<p>I'm a PhD student in Algebraic Geometry at the Algebra group. My advisor is <a href="http://www.mn.uio.no/math/english/people/aca/christop/index.html">Jan Christophersen</a>.</p>
+
+
+<p>If you want to contact me, add me on <a href="http://www.twitter.com/FredrikMeyer">Twitter</a>, message me on <a href="http://www.facebook.com/fredrik.meyer">Facebook</a>, or email me at username [at] math.uio.no. You can also meet my at my office in room B636 in Niels Henrik Abels hus.</p>
+
+<p><a href="algebra2014.html">Studentseminar vår 2014</a><br />
+Oversiktsside for studentseminaret vår 2014.</p>
+
+<p><a href="meyer_masteroppgave.pdf">Degenerations of G(3,6)</a><br />
+My master thesis.</p>
+
+<p><a href="BanachTarski.pdf">The Banach-Tarski Paradox</a><br />
+My project for MAT2000.</p>
+
+<p><a href="Kommalg.pdf">Commutative Algebra Notes</a><br />
+A short summary of the content of Atiyah-MacDonald's book on commutative algebra with an emphasis on examples.</p>
+
+<p><a href="mangfold3.pdf">Manifolds notes 2014</a><br />
+I take the course this year (2014), and here are the notes so far. Please tell me of any mistakes.</p>
+
+<p><a href="algstacks.pdf">Algebraic stacks 2013</a><br />
+These are notes from a course on algebraic stacks that I attended during the fall semester 2013. The lectures followed a draft version of the book "Algebraic spaces and stacks" by Martin Olsson, and were held by Paul Arne Østvær.
+</p>
+
+<p><a href="ordliste.pdf">Algebraic Geometry buzzlist</a><br />
+A list of definitions and theorems often used in algebraic geometry. Still growing.
+</p>
+
+<p><a href="alggroups.pdf">Algebraic groups and moduli theory</a><br />
+My (unfinished) notes for a course I'm following on algebraic groups and moduli theory. We're closely following Mukai's book. Lectures by Jan Christophersen. </p>
+
+<p><a href="invariantm2.pdf">Computing invariant rings in Macaulay2</a><br />
+A short note with a recipe for computing invariant rings in Macaulay2. </p>
+
+<p><a href="fingenabelian.pdf">Computing cokernels of integer matrices</a><br />
+A short note on how to compute the cokernel of an integer matrix A, with an implementation in Python (last part is very sketchy).
+</p>
+
+<p><a href="reptheory.pdf">Representation theory</a><br />
+These are lecture notes from MAT4270.</p>
+
+<p><a href="matlabkoder.pdf">MATLAB-koder</a><br />
+Liten samling med nyttige MATLAB-koder.</p>
+
+<p><a href="exercises.pdf">Exercises</a><br />
+I solve some exercises in some books and type the answers.</p>
+
+<p><a href="./mat2500/">Oppgaver i MAT2500</a><br />
+Løsningsforslag til oppgaver i kurset MAT2500. Med oppgavetekst + løsning. </p>
+
+<p><a href="http://www.fredrikmeyer.net/div/CV.pdf">CV</a><br />
+CV (in Norwegian).</p>
+
+<p>
+<a href="godeartikler.html">Recommended articles</a><br />
+<a href="links.html">Hyperlinks</a><br />
+<a href="assignments.html">Some mandatory assignments.</a><br />
+<a href="videos.html">Some math related YouTube videos</a> <br />
+<a href="courses.html">Courses I've taken.</a>
+</p>
+
+<img src="cissoid.gif" alt="Animasjon av en cissoide"><br />
+Here's a picture of <code>PP_3^2</code>, the projective plane of order 3.<br />
+
+<img src="fano23.png" alt="P_(F_3)^2" width="50%">
+
+<h2>Quotes</h2>
+
+<p><i>"[...] properties of subvarieties of toric varieties, which are undoubtedly more interesting objects than the frigid toric crystals."</i> (V.I. Danilov in "The Geometry of Toric Varieties")</p> 
+
+<p><i>"Before functoriality, people lived in caves."</i> (Brian Conrad)
+
+<h2>Populærartikler om matematikere</h2>
+<ul>
+<li><a href="emmynoether.pdf">Emmy Noether</a></li>
+<li><a href="sonya.pdf">Sonya Kovalevskaya</a></li>
+<li><a href="sophiegermain.pdf">Sophie Germain</a></li>
+<li><a href="streiftog.pdf">Et streiftog blant utvalgte matematikere</a>. Dette er en humoristisk artikkel om litt humoristiske matematikere. Den kom på trykk i Argument.</li>
+
+</ul>
+
+<h2>For videregåendeelever</h2>
+<p>
+<a href="./ullern/funksjoner.pdf">Grafer og funksjoner</a> Kort innføring<br />
+<a href="./ullern/eksponential.pdf">Kort om eksponentialfunksjoner</a><br />
+<a href="./ullern/geogebra.pdf">Superduperkort innføring i Geogebra</a><br />
+<a href="./ullern/geogebra_linreg.pdf">Lineær regresjon i Geogebra</a>
+</p>
+
+</td>
+</tr>
+</table>
+<p>
+    <a href="http://validator.w3.org/check?uri=referer"><img
+        src="http://www.w3.org/Icons/valid-xhtml10"
+        alt="Valid XHTML 1.0 Strict" height="31" width="88" /></a>
+</p>
+</body>
+</html>

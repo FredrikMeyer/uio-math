@@ -1,0 +1,135 @@
+
+%Teoremting
+\newtheorem{thm}{Theorem}[section]
+\newtheorem{lemma}[thm]{Lemma}
+\newtheorem{corr}[thm]{Corollary}
+
+%\renewcommand*{\arraystretch}{1.5}
+\newcommand{\pullbackcorner}[1][dr]{\save*!/#1-1pc/#1:(1,-1)@^{|-}\restore}
+\newcommand{\pushoutcorner}[1][dr]{\save*!/#1+1pc/#1:(-1,1)@^{|-}\restore}
+
+\declaretheorem[style=definition,qed=$\blacksquare$,sibling=thm, name=Definition]{defi}
+
+%\newtheorem{example}[thm]{Example}
+\declaretheorem[style=definition, qed=$\Xi$]{example}
+
+\newtheorem{prop}[thm]{Proposition}
+\declaretheorem[style=definition,name=Oppgave, qed=$\blacksquare$]{oppg}
+\declaretheorem[style=definition,name=L\o sning, qed=$\heartsuit$]{losn}
+
+
+%Remark
+\newtheorem*{remark}{Remark}
+%Figref
+\newcommand{\figref}[1]{Figure~\ref{fig:#1}}
+
+%Matematikkommandoer
+%Kategorier
+\newcommand{\catname}[1]{\mathsf{#1}}
+\newcommand{\Set}{\catname{Set}}
+\newcommand{\VBundles}{\catname{VBundles}}
+\newcommand{\PreSheaves}[1]{\catname{PreSheaves}_{#1}}
+\newcommand{\Diff}{\catname{Diff}}
+\newcommand{\Sh}{\catname{Sh}}
+\newcommand{\SchS}[1]{\mathsf{Sch}_{#1}}
+\newcommand{\Sch}{\catname{Sch}}
+\newcommand{\AffSch}{\catname{AffSch}}
+\newcommand{\CR}{\catname{CR}}
+\newcommand{\Gpd}{\catname{Gpd}}
+\newcommand{\Grps}{\catname{Grps}}
+
+\newcommand{\Top}{\catname{Top}}
+\newcommand{\Mod}[1]{\catname{Mod}_{#1}}
+
+
+% Curly letters
+\newcommand{\T}{\mathcal{T}}
+\newcommand{\Isom}{\mathfrak{Isom}}
+
+%Andre
+\newcommand*{\rmap}[1][]{\mathbin{\tikz [baseline=-0.25ex,-latex, ->, densely dashed,#1] \draw [#1] (0pt,0.5ex) -- (1.3em,0.5ex);}}%
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\K}{\mathcal K}
+\DeclareMathOperator{\HOM}{\catname{HOM}}
+\newcommand{\Span}[1]{\mathrm{Span}\{#1\}}
+\newcommand{\X}{\times}
+\newcommand{\E}{\mathcal E}
+\newcommand{\Gr}{\mathbb{G}}
+\DeclareMathOperator{\Res}{Res}
+\DeclareMathOperator{\Proj}{Proj}
+\DeclareMathOperator{\Cl}{Cl}
+\DeclareMathOperator{\Tor}{Tor}
+\DeclareMathOperator{\GL}{GL}
+\DeclareMathOperator{\Sing}{Sing}
+\DeclareMathOperator{\Hom}{Hom}
+\DeclareMathOperator{\tr}{tr}
+\DeclareMathOperator{\SSpec}{\boldsymbol{Spec}}
+\DeclareMathOperator{\colim}{colim}
+\DeclareMathOperator{\Spec}{Spec}
+\newcommand{\RR}{\mathfrak{R}}
+\newcommand{\Pic}{\text{Pic }}
+\newcommand{\PP}{\mathbb{P}}
+\newcommand{\dprime}{{\prime\prime}} % double prime
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\aut}{\mbox{Aut}}
+\newcommand{\pr}{\mathrm{pr}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Aa}{\mathbb{A}}
+\newcommand{\F}{\mathbb{F}}
+\renewcommand{\S}{\mathcal{S}}
+\newcommand{\nil}{\mathfrak{N}}
+\newcommand{\jac}{\mathfrak{J}}
+\newcommand{\pp}{\mathfrak{p}}
+\newcommand{\qq}{\mathfrak{q}}
+\newcommand{\ia}{\mathfrak{a}}
+\newcommand{\ib}{\mathfrak{b}}
+\newcommand{\ic}{\mathfrak{c}}
+\newcommand{\Der}{\text{Der}}
+\newcommand{\mm}{\mathfrak{m}}
+\newcommand{\kk}{\mathfrak{k}}
+\newcommand{\A}{\mathcal{A}}
+\newcommand{\B}{\mathcal{B}}
+\newcommand{\CC}{\mathcal{C}}
+\newcommand{\OO}{\mathcal{O}}
+\newcommand{\FF}{\mathcal{F}}
+\newcommand{\MM}{\mathcal{M}}
+\newcommand{\HH}{\mathcal{H}}
+\newcommand{\UU}{\mathcal{U}}
+\newcommand{\ub}{\mathbf{u}}
+\newcommand{\x}{\mathbf{x}}
+\newcommand{\ho}{\mbox{Hom}}
+\newcommand{\Stab}{\text{Stab}}
+\newcommand{\Gal}{\text{Gal}}
+\newcommand{\res}{\text{res}}
+\newcommand{\Ker}{\text{Ker}}
+\newcommand{\im}{\text{im}}
+\newcommand{\Ass}{\text{Ass}}
+\newcommand{\Ann}{\text{Ann}}
+\newcommand{\Supp}{\text{Supp}}
+\DeclareMathOperator{\supp}{supp}
+\newcommand{\id}{\text{id}}
+\newcommand{\coker}{\text{coker}}
+\newcommand{\Var}{\text{Var}}
+\newcommand{\tor}{\text{Tor}}
+\newcommand{\ext}{\text{Ext}}
+\newcommand{\tot}{\text{Tot}}
+\DeclareMathOperator{\Aut}{Aut}
+\newcommand{\disc}{\text{disc}}
+\newcommand{\cone}{\text{cone}}
+\newcommand{\norm}{\text{N}}
+\newcommand{\con}{\overline}
+\newcommand{\lb}{\left\{}
+\newcommand{\rb}{\right\}}
+\newcommand{\lk}{\text{lk}}
+\newcommand{\bs}{\backslash}
+\newcommand{\Ø}{\varnothing}
+\newcommand{\<}{\preccurlyeq}
+
+% Greek letters
+\newcommand{\eps}{\epsilon}
+
+% Matte
+\newcommand{\dotp}{\langle \, , \, \rangle}
+\newcommand{\dt}{\text{ dt}}
